@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephan Balasuriya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I+am+Stephan+Balasuriya.;Undergraduate+at+University+of+Moratuwa.;Faculty+of+Engineering.;Department+of+Computer+Science+and+Engineering.; Specialize+in+Intergrated+Computer+Engineering;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+I+am+Stephan+Balasuriya.;Undergraduate+at+University+of+Moratuwa.;Faculty+of+Engineering.;Department+of+Computer+Science+and+Engineering.;Specialize+in+Intergrated+Computer+Engineering.;" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,7 +27,10 @@ I am Stephan Balasuriya, an undergraduate student at the University of Moratuwa 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,express,react,mongodb,mysql,git,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,express,react,mongodb,mysql,git,figma,tailwind">
+ 
+  
+  
 </p>
 
 
